@@ -1,0 +1,72 @@
+/*
+ * Colores obtenidos de:
+ *    http://www.colorcombos.com/color-schemes/7625/ColorCombo7625.html
+ *
+ */
+/***************************/
+/** Reglas para etiquetas **/
+/***************************/
+html{
+
+background-image: url("../img/tri.jpg");
+  background-position: center center;
+}
+
+body
+{
+
+  position: static;
+  width: 70%;
+  margin: 0 auto;
+}
+
+hr{
+  color: white;
+
+}
+
+img
+{
+  padding-left: 20px;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 80px;
+
+  width: 250px;
+  height: 250;
+}
+
+h1
+{
+  color: #FF7A5A;
+  text-align: center;
+
+}
+
+li a
+{
+  color: #FF7A5A;
+  font-size: 30px;
+}
+
+
+.elaborado
+{
+  color: white;
+    font-size: 20px;
+  float: right;
+}
+
+
+/*
+-----------------------------------------------------------------
+*/
+strong{
+   font-style:italic;
+}
+
+em{
+
+    font-weight:bold;
+}

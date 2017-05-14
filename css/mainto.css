@@ -1,0 +1,90 @@
+html{
+
+background-image: url("../img/pos.jpg");
+  background-position: center center;
+}
+
+body
+{
+
+  position: static;
+
+}
+
+
+h1
+{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+h2
+{
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #5F021F;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+
+hr{
+  color: black;
+  width: 75%;
+
+}
+.contenido
+{
+    font-size: 18px;
+    background-color: #E45641;
+    color: white;
+}
+
+.comodin
+{
+    margin-top: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 3px solid #5F021F;
+    border-left: 3px solid #5F021F;
+    border-right: 3px solid #5F021F;
+    overflow: auto;
+    font-size: 18px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+
+nav {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul li{
+
+  font-size: 30px;
+  padding-right:  20px;
+  margin-right: 80px;
+  display: inline-block;
+
+
+}
+
+
+div img
+{
+    width: 350px;
+    height: 350px;
+    float: right;
+    padding: 10px;
+}
+
+strong{
+   font-style:italic;
+}
+
+em{
+
+    font-weight:bold;
+}
